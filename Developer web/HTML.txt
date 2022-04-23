@@ -1,0 +1,99 @@
+<>  </>
+
+t<TAG>	Definição	Novo recurso (HTML5)	Modificado do HTML 4
+a	Hiperlink		x
+abbr	Abreviação		
+address	Informações de Contato		
+area	Hiperlink de mapa de imagem		
+article	Artigo	x	
+aside	Conteúdo lateral	x	
+audio	Arquivo de áudio	x	
+b	Texto em negrito		x
+base	URL base		
+blockquote	Bloco para citações		
+body	Corpo do documento		
+br	Quebra de linha		
+button	Botão		
+canvas	Espaço reservado para gráficos dinâmicos	x	
+caption	Legenda		
+cite	Usado para citações de trabalhos		x
+code	Reservado para códigos		
+col	Coluna da tabela		
+colgroup	Grupo de coluna da tabela		
+command	Comando	x	
+datalist	Opções predefinidas para outros controles	x	
+dd	Descrição ou valor		
+del	Texto excluído		
+details	Controle para informações adicionais sob demanda	x	
+dfn	Definindo instância		
+div	Bloco genérico		
+dl	Lista de descrições		
+dt	Termo ou nome		
+em	Ênfase (itálico)		
+embed	Ponto de integração para plug-ins	x	
+fieldset	Conjunto de controles de formulário relacionados		
+figcaption	Legenda de uma figura		
+figure	Figura com legenda opcional		
+footer	Rodapé (parte inferior da página)	x	
+form	Formulário		
+h1, h2, h3, h4, h5, h6	Título		
+head	Armazena metadados de documento		
+header	Cabeçalho exibido na página	x	
+hgroup	Grupo de título	x	
+hr	Linha horizontal		x
+html	Elemento raiz		
+i	Itálico (atribui importância ao item)		x
+iframe	Permite que outras páginas sejam embutidas dentro de uma página.		
+img	Imagem		
+input	Controle de entrada		x
+ins	Texto inserido		
+label	Legenda para itens de formulários		
+legend	Título ou legenda explicativa		
+li	Item da lista		
+link	Permite relacionamentos entre documentos		
+map	Definição de mapa de imagem		
+mark	Texto marcado (destacado)	x	
+menu	Permite a inserção de itens		x
+meta	Metadados		x
+meter	Medidor escalar	x	
+nav	Grupo de links de navegação	x	
+noscript	Carrega um conteúdo diferente caso o navegador não suporte scripts		
+object	Conteúdo externo genérico		
+ol	Lista ordenada		
+optgroup	Grupo de opções		
+option	Opção de uma caixa de seleção (select)		
+output	Resultado do processamento de um formulário	x	
+p	Parágrafo		
+param	Parâmetros de inicialização para plug-ins		
+pre	Texto pré-formatado		
+progress	Indicador de progresso	x	
+q	Pequena citação de outra fonte		
+s	Armazena conteúdos que não são mais relevantes para o documento, sendo então eliminados		x
+script	Permite a adição de scripts		
+section	Bloco reservado para representar seções	x	
+select	Caixa de seleção de um formulário		
+small	Letras pequenas		x
+source	Permite várias fontes de áudio e vídeo	x	
+span	Container para texto		
+strong	Grande importância (negrito)		
+style	Permite alterar o estilo		
+sub	Subscrito		
+summary	Utilizado em sumários e legendas	x	
+sup	Sobrescrito		
+table	Tabela		
+tbody	Grupo de linha de uma tabela		
+td	Célula de uma tabela		
+textarea	Área para entrada de texto		
+tfoot	Grupo de linha do rodapé de uma tabela		
+th	Célula de cabeçalho de uma tabela		
+thead	Grupo de título de uma tabela		
+time	Data e/ou hora	x	
+title	Título do documento		
+tr	Linha de uma tabela		
+track	Faixa de mídia suplementar	x	
+u	Texto deslocado com estilo convencional com um sublinhado		x
+ul	Lista não ordenada		
+var	Variável		
+video	Vídeo	x	
+wbr	Insere uma quebra de linha (se necessário)	x
+
