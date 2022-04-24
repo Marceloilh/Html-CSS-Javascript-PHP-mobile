@@ -1,3 +1,19 @@
+Tabelas- 
+
+table 
+border=""
+tr = linha da tabela
+td = dados da tabela
+
+th = titulo das tabelas
+colspan="" - agrupa colunas
+rowspan="" - agrupa linhas
+type "radio" = seleção 
+enities = etidades para trabalhar com caracteres especiais
+
+
+ width="" - Largura
+ height=""- Altura
 <>  </>
 
 t<TAG>	Definição	Novo recurso (HTML5)	Modificado do HTML 4
