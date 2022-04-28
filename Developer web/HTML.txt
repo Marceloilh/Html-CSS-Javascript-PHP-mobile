@@ -9,7 +9,8 @@ th = titulo das tabelas
 colspan="" - agrupa colunas
 rowspan="" - agrupa linhas
 type "radio" = seleção 
-enities = etidades para trabalhar com caracteres especiais
+enities = etidades para trabalhar com caracteres especiais.
+select - seleção de dados
 
 
  width="" - Largura
