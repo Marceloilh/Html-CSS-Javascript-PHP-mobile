@@ -1,0 +1,59 @@
+body{
+    
+    background:#FF8000 ;
+    font: 16px Arial, Helvetica, sans-serif;
+
+}
+
+#principal{
+
+    width: 900px;
+}
+
+#menu {
+
+    background:#B18904 ;
+    padding: 18px;
+}
+
+#conteudo{
+    background:#B18904 ;
+    padding: 10px;
+}
+
+a{
+
+    color:rgb(161, 77, 8);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+
+}
+
+#rodape{
+
+    text-align: center;
+    color:#A9E2F3 ;
+    font-size: 0.8em;
+
+}
+
+h1{
+
+  color: #A9E2F3;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+p{
+
+    color: black;
+  }
+
+  .img-img{
+
+    border: 10px solid #A9E2F3;
+    
+     
+  }
+
