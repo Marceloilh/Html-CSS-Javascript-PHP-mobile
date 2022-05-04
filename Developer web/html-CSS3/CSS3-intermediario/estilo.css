@@ -1,0 +1,252 @@
+/*<link rel="stylesheet" type="text/css" href="estilo.css">*/
+
+/*
+Modelo de caixa
+elementos flutuantes
+elementos flutuantes pratica
+elementos inline,block e inline-block
+
+
+
+elementos flutuantes
+elementos flutuantes pratica
+ .conteudo{
+
+    border: 1px solid red; 
+
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+     padding: 20px 20px 20px 20px;
+
+    padding: 20px;
+    margin: 20px;
+    width:150px;
+    
+}
+
+
+
+
+.conteudo{
+
+    background: blue;
+    border: 1px solid grey;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    float: left;
+ 
+
+
+}
+
+
+.clear{ limpa fluxo flutuante
+
+    clear:both;
+}
+
+#principal{
+
+    border: 5px solid  red;
+    background: green;
+
+
+}
+
+
+
+ elementos flutuantes pratica
+ #principal{
+
+    width: 920px;
+    
+
+}
+
+.noticia{
+
+    background: #e5e5e5;
+    padding: 5px;
+    width: 280px;
+    margin: 7px;
+    float: left
+}
+
+.clear{
+
+    clear:both;
+}
+
+.imagem-galeria{
+
+    background:white;
+    width: 265px;
+    padding: 5px;
+    float:left;
+    margin: 15px
+
+} 
+
+ elementos inline,block e inline-block
+
+.borda{
+    border: 1px solid red;
+     display: inline
+     display: block
+     display: inline-block
+}
+
+ Posicionamentos(static, relative, absolute e fixed)
+
+ body{
+
+    background: #007fc7;
+  
+}
+
+#container{
+
+    background: #fff;
+    width: 800px; 
+    margin: 10px auto;
+    padding: 10px;
+}
+
+h1{
+
+}
+
+P{
+    width: 300px;
+
+}
+
+.relative{
+    border: 1px solid red;
+    position: relative;
+    left:300px;
+    top, right, bottom e left
+    top: opx;
+
+}
+
+.absolute{/*alinhado baseado no contender se tiver posição definida, do contrario será alinhado de acordo o body   
+
+    border: 1px solid red;
+    position: relative;
+    left:300px;
+    top, right, bottom e left
+     top: opx;
+
+
+}
+
+.fixed{ alinhado baseado na tela ex:chats
+    border: 1px solid red;
+    background: #f2f2f2;
+    position:fixed;
+    top:0px;
+    left:0px;
+}/*
+
+ sobrepondo elementos( contexto de empilhamento)
+
+.conteudo1{
+
+    border: 1px solid red;
+    background:orange;
+    width: 200px;
+    height: 200px;
+    position:absolute;
+    z-index: 1;
+
+}
+.conteudo2{
+
+    border: 1px solid red;
+    background:green;
+    width: 200px;
+    height: 200px;
+    position:absolute;
+    top: 80px;
+    left:80px;
+    z-index: 2;
+
+}
+.conteudo3{
+
+    border: 1px solid red;
+    background:yellow;
+    width: 200px;
+    height: 200px;
+    position:absolute;
+    top: 160px;
+    left:160px;
+    z-index: 3;
+
+}
+formatando links
+
+
+.aa{
+    background:black;
+    left: 100px;
+    margin: 70px;
+    position:static;
+    border-style: dashed;
+    border-width: 10px;
+}
+
+.di{
+
+    background:white;
+    padding: 10px;
+    margin:none;
+
+    
+   
+
+}
+
+body{
+  
+    background-color: black;
+    border: 20px solid white;
+    position:relative;
+    
+}
+
+a{
+    text-decoration:none;
+    padding: 50p 50px 50px 50px;
+    
+  
+
+   
+   
+
+}
+links não visitados
+a:link{
+    color:rgb(53, 50, 50)
+}
+
+links visitados
+a:visited{
+    color:rgb(238, 237, 237)
+}
+links hover, passa o cursor sobre o link
+a:hover{
+    background: rgb(159, 230, 79);
+}
+links ativos, quando clicado
+a:active{
+
+    color:yellow;
+    
+}
+*/
