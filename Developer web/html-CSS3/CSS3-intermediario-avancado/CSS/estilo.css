@@ -1,0 +1,76 @@
+/*Limpar formatação padrão*/
+*{
+
+    margin:0;
+    padding:0;
+}
+/*body{
+    font-size: 1em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(248, 244, 244);
+}*/
+/*seletor Universal*/
+
+/**{
+    background: rgba(250, 244, 244, 0.533);
+    border: 1px solid red;
+}*/
+
+/*seletor de classe seleciona qualquer elemento cujo atributo class tem o valor "verde"*/
+
+/*.verde{
+    background:green;
+}*/
+
+/* 1 seletor de classe seleciona somente elementos <p> cujo atributo class tem o valor "verde"*/
+
+/* utilizando somente assim, poderá somente aplicar a classe verde em paragrafos*/
+/*p.verde{
+   color: green;
+}*/
+
+/* 2 Seletor de ID Seleciona um elemento cujo atributo id tem o valor especificado após o símbolo
+de cerquilha ou jogo da velha*/
+
+/*#azul{
+    color:blue;
+}*/
+/* 3 Seletor de filho, seleciona um elemento que é filho direto de outro*/
+
+/*seleciona quaisquer elemnetos <a> que são filhos de um elemento<li>( mas não outros elemnetos a na página)*/4
+   /* li>a{
+    color:red;
+    border:1px solid black;
+    text-decoration:none;
+
+}*/
+/* 4 Seletor de descendente, seleciona um elemento que é descendendte de outro elemento especificado(e não apenas filho 
+direto desse elemento)*/
+
+/*Seleciona quaisquer elementos <a> que residem dentro de um elemento <p>, mesmo e houver outros
+    elemnetos aninhados entre eles*/
+    /*p a{
+    color:rgb(27, 26, 26);
+    border:1px solid black;
+    text-decoration:none;
+    background: red;
+}*/
+
+/* 5 Seletor irmão adjacente, Seleciona um elemento que é irmão proximo de outro*/
+/*Seleciona o primeiro elemento <p> depois de qualquer elemento<h1>(mas não outros elementos <p>)*/
+  /*  h1+p{
+    border:1px solid green;
+    background: #F2B3;
+}*/
+
+/* 6 Seletor de irmão geral , seleciona um elemento que é um irmão de outro, embora ele não
+precise ser o elemento diretamente procedente*/
+/* se houvesse dois elementos <p> que fossem irmãos de um elemento <h1>, essa regra se aplicaria aos dois*/
+/*h1~p{
+    border:1px solid green;
+    background: #F2B3;
+}*/
+
+/*********************************************************************************
+Herança e especificidade */
+
