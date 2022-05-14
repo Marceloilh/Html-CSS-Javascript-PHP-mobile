@@ -1,0 +1,107 @@
+/***************************************
+Estilizando Formularios*/
+
+/*body{
+    font-family:"Trebuchet","helvetica","sans-serif !important";
+
+}
+
+fieldset {
+    margin:1em 0;
+    padding: 1em;
+    border: 1px solid #CCC;
+    background;#f8f8f8;
+}
+
+legend {
+    font-weight:bold;
+}
+
+label {
+    display: block;
+    cursor: pointer;
+}
+
+
+input  {/* [type="text"]->seletor de atributo []*/
+   /* width: 20em; 
+}
+textarea {
+    width: 20em;
+    height: 10em;
+}
+
+input.radio, input.checkbox, input.submit {
+    width:auto;
+}
+
+.radio {
+    margin-right: 1em;
+    border: 1px solid #bbb;
+
+}*/
+
+/******************************************************
+Estilizando formularios parte 2 */
+
+body {
+    width:100%;
+    font-family: "Trebuchet", "helvetica", "sans-serif";
+    background: #3CB371 url(../imagens/fundo.jpg) repeat top center ;
+}
+
+#conteiner {
+    width: 400px;
+    height: 300px;
+    background-color: rgba(255,255,255,0.3);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 120px;
+    text-align:center;
+
+}
+
+#conteiner img {
+    width: 120px;
+    height: 120px;
+    margin-top: -60px;
+    margin-bottom: 30px;
+}
+
+input {
+    height: 40px;
+    width: 80%;
+    font-size:18px;
+    margin-bottom: 10px;
+    background-color:#fff;
+    padding-left: 40px;
+    border:none;
+    background-repeat: no-repeat;
+    background-position: 10px;
+}
+
+input.email {
+    background-image: url("../imagens/icone-usuario.png") ;
+}
+
+input.senha {
+    background-image: url("../imagens/icone-cadeado.png") ;
+}
+
+input.submit {
+    color:#fff;
+    background-color:#006400;
+    border:2px solid #00FA9A;
+    padding: 5px 20px;
+    height: 45px;
+    width: 90%;
+    background:linear-gradient(to bottom, #00FF7F, #006400);
+
+    background: -webkit-linear-gradient(to bottom, #008000, #006400);
+    background: -moz-linear-gradient(to bottom,  #008000, #006400);
+    background: -o-linear-gradient(to bottom,  #008000, #006400);
+    background: -o-linear-gradient(to bottom,  #008000, #006400);
+}
+

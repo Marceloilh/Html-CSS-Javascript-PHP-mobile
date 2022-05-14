@@ -1,0 +1,40 @@
+/*********************************************
+Estilizando tabelas */
+
+body {
+    font-family:"Trebuchet","Helvetica Neue","sans-serif";
+}
+
+table {
+    width: 600px;
+    border-collapse: separate;/*collapse -> juntar as bordas das celular*/
+
+
+}
+th, td {
+   
+    padding: 7px;
+}
+
+th {
+    text-transform: uppercase;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #111;
+    text-align: left;
+    font-size: 90%;
+    letter-spacing: 0.1 em;/*espaçamento entre letras*/
+
+}
+
+tr.alternado{
+    background-color:#efefef;
+}
+
+tr:hover {
+    background-color: aqua;
+
+}
+
+.numero{
+    text-align: right;
+}
